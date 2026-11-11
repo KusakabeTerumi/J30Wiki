@@ -1,0 +1,27 @@
+:root {
+  --sl-font: system-ui, -apple-system, 'Segoe UI', 'Yu Gothic UI', 'Meiryo', sans-serif;
+  --sl-color-accent-low: #30213e;
+  --sl-color-accent: #c8a8ec;
+  --sl-color-accent-high: #eeddfc;
+  --sl-color-bg: #18171b;
+  --sl-color-text: #e5e1e9;
+  --sl-content-width: 48rem;
+  --sl-text-body: 1rem;
+}
+:root[data-theme='light'] {
+  --sl-color-accent-low: #eee5f6;
+  --sl-color-accent: #69418b;
+  --sl-color-accent-high: #432259;
+  --sl-color-bg: #fdfbff;
+  --sl-color-text: #302c35;
+}
+.sl-markdown-content { line-height: 1.85; overflow-wrap: anywhere; }
+.sl-markdown-content a { text-decoration: underline; text-underline-offset: 0.2em; }
+.sl-markdown-content h2 { border-top: 1px solid var(--sl-color-gray-5); padding-top: 1.1rem; }
+.sl-markdown-content blockquote { border-radius: 0 12px 12px 0; background: var(--sl-color-accent-low); padding: 1rem 1.2rem; color: var(--sl-color-text); }
+.sidebar-content a { min-height: 48px; display: flex; align-items: center; }
+starlight-theme-select select, .sl-menu-button, site-search button, .sidebar-content summary, mobile-starlight-toc summary { min-height: 48px; min-width: 48px; }
+:focus-visible { outline: 3px solid var(--sl-color-accent); outline-offset: 3px; }
+.site-title { font-size: 1rem; line-height: 1.4; }
+.fan-notice { margin-top: 2rem; border-top: 1px solid var(--sl-color-gray-5); padding-top: 1rem; font-size: .875rem; line-height: 1.8; }
+@media (max-width: 50rem) { h1 { font-size: 1.85rem !important; } }
