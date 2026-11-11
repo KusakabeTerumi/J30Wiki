@@ -1,6 +1,6 @@
 # J30 ロストアイランド攻略Wiki
 
-**実装済み・未公開。** ザ・アンツ運営会社と無関係の非公式ファンWikiです。
+**公開済み：[J30 ロストアイランド攻略Wiki](https://kusakabeterumi.github.io/J30Wiki/)。** ザ・アンツ運営会社と無関係の非公式ファンWikiです。
 Astro Starlight / Markdown / 標準Pagefind検索で構成し、外部フォント・広告・解析・DB・ログイン・外部APIは使用しません。
 
 ## セットアップと閲覧
@@ -41,22 +41,23 @@ npm run preview
 
 ## 公開先
 
-指定リポジトリ：`KusakabeTerumi/J30Wiki`。公開予定URL：`https://kusakabeterumi.github.io/J30Wiki/`（未公開・稼働未確認）。
-`site` と `base`、GitHub Actionsの値は設定済みです。現在はGitHub認証の接続待ちです。
+リポジトリ：[KusakabeTerumi/J30Wiki](https://github.com/KusakabeTerumi/J30Wiki)。
+公開URL：[https://kusakabeterumi.github.io/J30Wiki/](https://kusakabeterumi.github.io/J30Wiki/)。
+GitHub Actionsによるビルド・公開と、全9ページ・日本語検索を確認済みです。
 
-## 公開前の確認
+## 内容を更新するときの確認
 
 - 初期配置・外交・運営方針の現在の状態と、全9記事の公開内容をユーザーが最終確認。
 - ゲームの一次資料URL・対象シーズン・仕様の数値は未確認です。未確認ラベルを維持するか、確認結果を反映。
-- 公開先のユーザー指定は受領済み。GitHubへの有効な認証とリポジトリ操作権限の確認が必要。
-- 公開用設定は `site: https://kusakabeterumi.github.io`、`base: /J30Wiki/`。設定済みでも公開完了を意味しません。
+- 更新時はGitHubへの有効な認証と対象リポジトリの操作権限が必要です。
+- 公開用設定は `site: https://kusakabeterumi.github.io`、`base: /J30Wiki/`。公開確認済み。
 
-## GitHub Pagesで公開する手順（未実施）
+## GitHub Pagesの公開・更新手順
 
-承認後、**この `j30-wiki` フォルダの中身だけ**を公開リポジトリのルートに配置します。親フォルダの元資料や `.work-state` は送信しません。
+**この `j30-wiki` フォルダの中身だけ**を公開リポジトリのルートに配置しています。親フォルダの元資料や `.work-state` は送信しません。
 
-1. GitHubで承認済みの公開リポジトリを作成し、ソースとlockfileを送信。`node_modules` / `dist` / `.env` は除外。
-2. Settings → Pages → Build and deployment → Source を **GitHub Actions** にします。
+1. 初回リポジトリ作成・ソースとlockfileの反映は完了。以後は対象記事だけを更新します。`node_modules` / `dist` / `.env` は除外。
+2. Settings → Pages → Build and deployment → Source は **GitHub Actions** に設定済みです。
 3. 公開設定を確認します。ワークフローには `SITE_URL: https://kusakabeterumi.github.io`、`BASE_PATH: /J30Wiki/` を設定済みで、リポジトリ変数の追加は不要です。
 4. Actions → Deploy J30 Wiki to GitHub Pages → Run workflow。
 5. 完了したデプロイのURLで検索・全ページ・配色・スマホナビを確認します。
