@@ -1,8 +1,8 @@
 # J30 アライアンスWiki
 
-**本番は旧版（ロストアイランドWiki）です。今回の拡張版はローカル確認・承認待ちです。**
+**2026-11-12：承認済みの拡張版を本番公開しました。全16ページと検索を確認済みです。**
 
-**既存公開先：[J30 ロストアイランド攻略Wiki](https://kusakabeterumi.github.io/J30Wiki/)。** ザ・アンツ運営会社と無関係の非公式ファンWikiです。
+**公開先：[J30 アライアンスWiki](https://kusakabeterumi.github.io/J30Wiki/)。** ザ・アンツ運営会社と無関係の非公式ファンWikiです。
 Astro Starlight / Markdown / 標準Pagefind検索で構成し、外部フォント・広告・解析・DB・ログイン・外部APIは使用しません。
 
 ## セットアップと閲覧
@@ -45,7 +45,7 @@ npm run preview
 
 リポジトリ：[KusakabeTerumi/J30Wiki](https://github.com/KusakabeTerumi/J30Wiki)。
 公開URL：[https://kusakabeterumi.github.io/J30Wiki/](https://kusakabeterumi.github.io/J30Wiki/)。
-GitHub Actionsによるビルド・公開と、全9ページ・日本語検索を確認済みです。
+GitHub Actionsによるビルド・公開と、全16ページ・検索を確認済みです。
 
 ## 内容を更新するときの確認
 
