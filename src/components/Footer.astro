@@ -1,5 +1,35 @@
 ---
 import Footer from '@astrojs/starlight/components/Footer.astro';
+import { getEntry, render } from 'astro:content';
+
+const historySlug = 'sources';
+const history = await getEntry('docs', historySlug);
+if (!history) {
+  throw new Error('改訂履歴の記事が見つかりません。');
+}
+
+const { headings } = await render(history);
+const latestRevision = headings.find(({ depth }) => depth === 2);
+const version = latestRevision?.text.match(/^(Ver\.\d+\.\d+)｜\d{4}年\d{1,2}月\d{1,2}日$/)?.[1];
+
+if (!version) {
+  throw new Error('改訂履歴の先頭の見出しを「Ver.X.Y｜YYYY年M月D日」の形式で記載してください。');
+}
+
+const historyUrl = import.meta.env.BASE_URL + historySlug + '/';
 ---
 <Footer {...Astro.props} />
-<p class="fan-notice">ザ・アンツ非公式ファンWiki · ゲーム運営会社とは無関係です。最新のゲーム内表示を優先してください。</p>
+<div class="fan-notice">
+  <p data-pagefind-ignore>
+    J30 アライアンスWiki | <a href={historyUrl} aria-label={version + 'の改訂履歴'}>{version}</a>
+  </p>
+  <p>ザ・アンツ非公式ファンWiki · ゲーム運営会社とは無関係です。最新のゲーム内表示を優先してください。</p>
+</div>
+
+<style>
+  .fan-notice a {
+    color: var(--sl-color-text-accent);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+  }
+</style>

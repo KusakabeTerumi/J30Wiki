@@ -1,6 +1,6 @@
 ---
 title: "用語集"
-description: "J30、J30sym、symなど、このWikiで使う名称や言葉の意味。"
+description: "J30、J30sym、J3Fなど、このWikiで使う名称や言葉の意味。"
 lastUpdated: 2026-11-12
 ---
 
@@ -14,7 +14,7 @@ lastUpdated: 2026-11-12
 
 本アライアンスの正式名称。ゲーム画面では **(J30) J30sym** と表示されます。
 
-### sym
+### J3F
 
 J30symのファームアライアンス。
 

@@ -31,9 +31,9 @@ export default defineConfig({
         { label: '建設・拠点攻略', slug: 'towers-npc' },
         { label: '資源の準備', slug: 'troops-resources' }
       ] },
-      { label: '運営方針・更新履歴', items: [
+      { label: '運営方針・お知らせ・更新履歴', items: [
         { label: '運営方針', slug: 'management' },
-        { label: '更新履歴', slug: 'sources' }
+        { label: '改訂履歴', slug: 'sources' }
       ] },
       { label: '用語集', slug: 'glossary' }
     ]

@@ -19,4 +19,4 @@
 | 建設・拠点攻略 | `towers-npc.md` |
 | 資源の準備 | `troops-resources.md` |
 | 用語集 | `glossary.md` |
-| 更新履歴 | `sources.md` |
+| 改訂履歴 | `sources.md` |
