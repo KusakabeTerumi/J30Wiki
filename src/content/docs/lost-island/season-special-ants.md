@@ -12,6 +12,14 @@ lastUpdated: 2026-11-13
 
 解放後は特化アリ画面から「お勧め特化アリコンビ」も確認できます。表示されるおすすめは手持ちの特化アリや兵種を踏まえ、編成を考える参考にしてください。
 
+<figure class="wiki-diagram">
+  <img src="../../diagrams/08_season_special_ants.svg" alt="シーズン中は指定のマイルストーン後に異変卵を使い、終了後は占領結果などで征服孵化か探索孵化が解放される。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>シーズン中と終了後の孵化条件を示した模式図です。</p>
+    <a href="../../diagrams/08_season_special_ants.svg">図を拡大する<span class="sr-only">（シーズン特化アリの孵化）</span></a>
+  </figcaption>
+</figure>
+
 ## シーズン終了後に受け取る報酬
 
 シーズン終了後、所属アライアンスの占領状況などに応じて「シーズン征服孵化」または「シーズン探索孵化」が解放されます。「シーズンリワード」の「アライアンス占領リワード」で条件を確認し、受け取ったアイテムで孵化できます。

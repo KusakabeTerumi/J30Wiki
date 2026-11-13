@@ -1,0 +1,32 @@
+<svg xml:lang="ja" xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="初期配置を比較する">
+<defs><marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#C4B5FD" stroke-width="1.8"/></marker><marker id="bad" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#FDA4AF" stroke-width="1.8"/></marker></defs>
+<rect width="1280" height="720" fill="#111827"/>
+<circle cx="1240" cy="60" r="170" fill="#8B5CF6" opacity="0.06"/>
+<rect x="48" y="36" width="12" height="82" rx="6" fill="#A78BFA"/>
+<text x="85" y="52" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="48" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">初期配置を比較する</text>
+<text x="87" y="106" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">進出経路・周辺勢力・守備の比較例</text>
+<line x1="48" y1="139" x2="1232" y2="139" stroke="#4B5563" stroke-width="1" stroke-linecap="round"/>
+<text x="1228" y="62" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="800" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">J30 WIKI</text>
+<text x="1228" y="102" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="19" font-weight="500" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">ロストアイランド攻略</text>
+<line x1="48" y1="662" x2="1232" y2="662" stroke="#4B5563" stroke-width="1" stroke-linecap="round"/>
+<text x="52" y="688" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="18" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">J30sym  •  図解ガイド</text>
+<text x="1228" y="688" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="17" font-weight="500" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">※ 仕組みを示す模式図（ゲーム画面ではありません）</text>
+<rect x="54" y="192" width="560" height="360" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="73" y="212" width="7" height="38" rx="4" fill="#5EEAD4"/>
+<text x="96" y="234" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="40" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">カニ平原</text>
+<text x="82" y="296" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">法螺谷間方面への進路を確認</text>
+<text x="82" y="359" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">進出経路の選択肢を確保</text>
+<text x="82" y="422" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">周囲の勢力と外交が重要</text>
+<text x="82" y="485" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">守備と進軍計画を両立</text>
+<rect x="666" y="192" width="560" height="360" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="685" y="212" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="708" y="234" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="40" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">巻き貝フィヨルド</text>
+<text x="694" y="296" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">飛魚沼地方面への進路を確認</text>
+<text x="694" y="359" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">隣接勢力との競合に注意</text>
+<text x="694" y="422" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">相手の戦力によって難易度変化</text>
+<text x="694" y="485" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">外交次第で評価が変わる</text>
+<rect x="72" y="545" width="350" height="42" rx="21" fill="#26354C" stroke="#FCD34D" stroke-width="1"/>
+<text x="247.0" y="566" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="700" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">周辺状況も確認</text>
+<rect x="48" y="594" width="1184" height="55" rx="12" fill="#26354C"/>
+<text x="76" y="622" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="650" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">正確な地形・隣接関係はゲーム内のロストアイランド地図で確認</text>
+</svg>

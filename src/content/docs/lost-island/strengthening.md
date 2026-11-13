@@ -12,6 +12,14 @@ lastUpdated: 2026-11-13
 
 **補強レベルは、現在の建物レベルを超えて上げることはできません。** 先に通常の建物を育成する必要がある場合もあります。
 
+<figure class="wiki-diagram">
+  <img src="../../diagrams/05_nest_reinforcement.svg" alt="対応する建物から補強画面を開き、補強樹脂を使ってシーズン中のバフを得る流れ。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>蟻塚補強の操作、補強レベルの上限、シーズン終了時の扱いをまとめた模式図です。</p>
+    <a href="../../diagrams/05_nest_reinforcement.svg">図を拡大する<span class="sr-only">（蟻塚補強の手順）</span></a>
+  </figcaption>
+</figure>
+
 ## 補強樹脂の主な入手先
 
 ゲーム内の案内では、次のような入手先が示されています。

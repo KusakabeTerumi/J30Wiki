@@ -1,0 +1,51 @@
+<svg xml:lang="ja" xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="蟻塚補強の進め方">
+<defs><marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#C4B5FD" stroke-width="1.8"/></marker><marker id="bad" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#FDA4AF" stroke-width="1.8"/></marker></defs>
+<rect width="1280" height="720" fill="#111827"/>
+<circle cx="1240" cy="60" r="170" fill="#8B5CF6" opacity="0.06"/>
+<rect x="48" y="36" width="12" height="82" rx="6" fill="#A78BFA"/>
+<text x="85" y="52" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="48" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">蟻塚補強の進め方</text>
+<text x="87" y="106" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">補強樹脂でシーズン中のバフを獲得する</text>
+<line x1="48" y1="139" x2="1232" y2="139" stroke="#4B5563" stroke-width="1" stroke-linecap="round"/>
+<text x="1228" y="62" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="800" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">J30 WIKI</text>
+<text x="1228" y="102" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="19" font-weight="500" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">ロストアイランド攻略</text>
+<line x1="48" y1="662" x2="1232" y2="662" stroke="#4B5563" stroke-width="1" stroke-linecap="round"/>
+<text x="52" y="688" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="18" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">J30sym  •  図解ガイド</text>
+<text x="1228" y="688" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="17" font-weight="500" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">※ 仕組みを示す模式図（ゲーム画面ではありません）</text>
+<rect x="57" y="218" width="276" height="222" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="76" y="238" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="99" y="260" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">補強画面を開く</text>
+<text x="85" y="322" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">対応する建物から</text>
+<circle cx="90" cy="193" r="21" fill="#26354C" stroke="#5EEAD4" stroke-width="3"/>
+<text x="90" y="194" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">1</text>
+<line x1="337" y1="328" x2="357" y2="328" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="366" y="218" width="276" height="222" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="385" y="238" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="408" y="260" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">建物を選ぶ</text>
+<text x="394" y="322" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">補強対象を確認</text>
+<circle cx="399" cy="193" r="21" fill="#26354C" stroke="#5EEAD4" stroke-width="3"/>
+<text x="399" y="194" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">2</text>
+<line x1="646" y1="328" x2="666" y2="328" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="675" y="218" width="276" height="222" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="694" y="238" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="717" y="260" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">補強樹脂を使う</text>
+<text x="703" y="322" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">所要数を確認</text>
+<circle cx="708" cy="193" r="21" fill="#26354C" stroke="#5EEAD4" stroke-width="3"/>
+<text x="708" y="194" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">3</text>
+<line x1="955" y1="328" x2="975" y2="328" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="984" y="218" width="276" height="222" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="1003" y="238" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="1026" y="260" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">バフを獲得</text>
+<text x="1012" y="322" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">戦力強化につなげる</text>
+<circle cx="1017" cy="193" r="21" fill="#26354C" stroke="#5EEAD4" stroke-width="3"/>
+<text x="1017" y="194" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">4</text>
+<rect x="57" y="472" width="552" height="93" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="76" y="492" width="7" height="38" rx="4" fill="#FCD34D"/>
+<text x="99" y="514" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="28" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">補強上限</text>
+<text x="85" y="550" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">建物の現在レベルを超えられない</text>
+<rect x="671" y="472" width="552" height="93" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="690" y="492" width="7" height="38" rx="4" fill="#FCD34D"/>
+<text x="713" y="514" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">シーズン終了</text>
+<text x="699" y="550" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">補強効果・残りの補強樹脂は消える</text>
+<rect x="48" y="594" width="1184" height="55" rx="12" fill="#26354C"/>
+<text x="76" y="622" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="650" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">補強樹脂は中立生物・実績・マイルストーン等から獲得</text>
+</svg>

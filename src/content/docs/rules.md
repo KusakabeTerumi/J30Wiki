@@ -1,7 +1,7 @@
 ---
 title: "アライアンス規約・襲撃ルール"
 description: "プレイスタイルを尊重するための考え方と、襲撃前に確認すること。"
-lastUpdated: 2026-11-12
+lastUpdated: 2026-11-13
 ---
 
 ## お互いのプレイスタイルを尊重する
@@ -15,6 +15,14 @@ lastUpdated: 2026-11-12
 自由を尊重する方針は、アライアンスのルールや相手との取り決めを無効にするものではありません。襲撃対象に迷ったときは、攻撃する前にゲーム内の最新案内を確認するか、盟主に相談してください。
 
 好戦的な方の歓迎は、どんな相手にも襲撃してよいという意味ではありません。また、平和主義の方の歓迎は、J30全体が戦闘を一切しないという意味でもありません。
+
+<figure class="wiki-diagram">
+  <img src="../diagrams/12_raid_rules_check.svg" alt="ゲーム内の最新ルールを確認し、判断に迷ったら攻撃前に相談する。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>ゲーム内で襲撃する前の確認事項をまとめた模式図です。</p>
+    <a href="../diagrams/12_raid_rules_check.svg">図を拡大する<span class="sr-only">（襲撃前の確認事項）</span></a>
+  </figcaption>
+</figure>
 
 ## 関連ページ
 

@@ -1,0 +1,56 @@
+<svg xml:lang="ja" xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="シーズン兵隊アリの流れ">
+<defs><marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#C4B5FD" stroke-width="1.8"/></marker><marker id="bad" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#FDA4AF" stroke-width="1.8"/></marker></defs>
+<rect width="1280" height="720" fill="#111827"/>
+<circle cx="1240" cy="60" r="170" fill="#8B5CF6" opacity="0.06"/>
+<rect x="48" y="36" width="12" height="82" rx="6" fill="#A78BFA"/>
+<text x="85" y="52" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="48" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">シーズン兵隊アリの流れ</text>
+<text x="87" y="106" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">コロニーからの獲得・戦闘・治療を繰り返す</text>
+<line x1="48" y1="139" x2="1232" y2="139" stroke="#4B5563" stroke-width="1" stroke-linecap="round"/>
+<text x="1228" y="62" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="800" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">J30 WIKI</text>
+<text x="1228" y="102" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="19" font-weight="500" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">ロストアイランド攻略</text>
+<line x1="48" y1="662" x2="1232" y2="662" stroke="#4B5563" stroke-width="1" stroke-linecap="round"/>
+<text x="52" y="688" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="18" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">J30sym  •  図解ガイド</text>
+<text x="1228" y="688" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="17" font-weight="500" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">※ 仕組みを示す模式図（ゲーム画面ではありません）</text>
+<rect x="56" y="188" width="370" height="170" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="75" y="208" width="7" height="38" rx="4" fill="#5EEAD4"/>
+<text x="98" y="230" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">コロニーを占領</text>
+<text x="84" y="292" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">T12兵を継続産出</text>
+<circle cx="88" cy="175" r="22" fill="#26354C" stroke="#FCD34D" stroke-width="3"/>
+<text x="88" y="176" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">1</text>
+<line x1="429" y1="282" x2="453" y2="282" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="461" y="188" width="370" height="170" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="480" y="208" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="503" y="230" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">シーズン兵を獲得</text>
+<text x="489" y="292" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">兵種に応じて使用</text>
+<circle cx="493" cy="175" r="22" fill="#26354C" stroke="#FCD34D" stroke-width="3"/>
+<text x="493" y="176" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">2</text>
+<line x1="834" y1="282" x2="858" y2="282" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="866" y="188" width="370" height="170" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="885" y="208" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="908" y="230" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">出征・戦闘</text>
+<text x="894" y="292" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">T12は指定条件の達成後</text>
+<circle cx="898" cy="175" r="22" fill="#26354C" stroke="#FCD34D" stroke-width="3"/>
+<text x="898" y="176" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">3</text>
+<rect x="56" y="383" width="370" height="170" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="75" y="403" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="98" y="425" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">負傷</text>
+<text x="84" y="487" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">シーズン兵は死亡しない</text>
+<circle cx="88" cy="370" r="22" fill="#26354C" stroke="#FCD34D" stroke-width="3"/>
+<text x="88" y="371" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">4</text>
+<line x1="429" y1="477" x2="453" y2="477" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="461" y="383" width="370" height="170" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="480" y="403" width="7" height="38" rx="4" fill="#5EEAD4"/>
+<text x="503" y="425" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">再生菌で治療</text>
+<text x="489" y="487" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">資源・再生菌を消費</text>
+<circle cx="493" cy="370" r="22" fill="#26354C" stroke="#FCD34D" stroke-width="3"/>
+<text x="493" y="371" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">5</text>
+<line x1="834" y1="477" x2="858" y2="477" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="866" y="383" width="370" height="170" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="885" y="403" width="7" height="38" rx="4" fill="#C4B5FD"/>
+<text x="908" y="425" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">再出撃</text>
+<text x="894" y="487" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">治療後に再び参加</text>
+<circle cx="898" cy="370" r="22" fill="#26354C" stroke="#FCD34D" stroke-width="3"/>
+<text x="898" y="371" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="800" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">6</text>
+<rect x="48" y="594" width="1184" height="55" rx="12" fill="#26354C"/>
+<text x="76" y="622" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="650" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">T11兵はシーズン実績リワードで入手／終了後は持ち帰れない</text>
+</svg>

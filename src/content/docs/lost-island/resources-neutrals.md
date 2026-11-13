@@ -26,6 +26,14 @@ lastUpdated: 2026-11-13
 
 通常のシーズン中立生物は、前のレベルを撃破することで次のレベルに挑戦できるようになります。通常・集結のどちらも、シーズンのマイルストーンが進むと高レベルの個体が解放されます。対象をタップすると推奨戦闘力などを確認できます。
 
+<figure class="wiki-diagram">
+  <img src="../../diagrams/07_resources_neutral_creatures.svg" alt="共有の資源ポイントの探し方と採集隊列の上限、雀蜂の探し方、ヤモリ討伐の方法。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>資源採集と中立生物の討伐で確認したい点をまとめた模式図です。</p>
+    <a href="../../diagrams/07_resources_neutral_creatures.svg">図を拡大する<span class="sr-only">（資源ポイントと中立生物）</span></a>
+  </figcaption>
+</figure>
+
 ## 雀蜂の特徴
 
 雀蜂は通常の検索機能では探せない特別な中立生物です。シーズンの特定マイルストーンが終わると、山脈などの特殊な地形に出現するようになります。討伐すると、通常より豊富な報酬やイベント報酬を獲得できる場合があります。

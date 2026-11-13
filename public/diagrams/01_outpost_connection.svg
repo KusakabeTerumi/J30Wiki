@@ -1,0 +1,48 @@
+<svg xml:lang="ja" xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="監視哨の接続ルール">
+<defs><marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#C4B5FD" stroke-width="1.8"/></marker><marker id="bad" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#FDA4AF" stroke-width="1.8"/></marker></defs>
+<rect width="1280" height="720" fill="#111827"/>
+<circle cx="1240" cy="60" r="170" fill="#8B5CF6" opacity="0.06"/>
+<rect x="48" y="36" width="12" height="82" rx="6" fill="#A78BFA"/>
+<text x="85" y="52" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="48" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">監視哨の接続ルール</text>
+<text x="87" y="106" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">監視哨は領土をつないで配置する</text>
+<line x1="48" y1="139" x2="1232" y2="139" stroke="#4B5563" stroke-width="1" stroke-linecap="round"/>
+<text x="1228" y="62" fill="#C4B5FD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="800" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">J30 WIKI</text>
+<text x="1228" y="102" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="19" font-weight="500" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">ロストアイランド攻略</text>
+<line x1="48" y1="662" x2="1232" y2="662" stroke="#4B5563" stroke-width="1" stroke-linecap="round"/>
+<text x="52" y="688" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="18" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">J30sym  •  図解ガイド</text>
+<text x="1228" y="688" fill="#C4CEDD" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="17" font-weight="500" text-anchor="end" dominant-baseline="middle" letter-spacing="0.2">※ 仕組みを示す模式図（ゲーム画面ではありません）</text>
+<rect x="56" y="158" width="230" height="42" rx="21" fill="#26354C" stroke="#5EEAD4" stroke-width="1"/>
+<text x="171.0" y="179" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="700" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">○ 正しい接続</text>
+<rect x="64" y="211" width="336" height="142" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="83" y="231" width="7" height="38" rx="4" fill="#5EEAD4"/>
+<text x="106" y="253" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="32" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">自盟領土</text>
+<text x="92" y="315" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">既存の領土</text>
+<rect x="466" y="211" width="336" height="142" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="485" y="231" width="7" height="38" rx="4" fill="#5EEAD4"/>
+<text x="508" y="253" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="32" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">監視哨</text>
+<text x="494" y="315" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">R4・R5が設置</text>
+<rect x="868" y="211" width="336" height="142" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="887" y="231" width="7" height="38" rx="4" fill="#5EEAD4"/>
+<text x="910" y="253" fill="#5EEAD4" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="32" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">目標拠点</text>
+<text x="896" y="315" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">接触して攻撃</text>
+<line x1="406" y1="282" x2="458" y2="282" stroke="#5EEAD4" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+<line x1="809" y1="282" x2="860" y2="282" stroke="#5EEAD4" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="56" y="384" width="230" height="42" rx="21" fill="#26354C" stroke="#FDA4AF" stroke-width="1"/>
+<text x="171.0" y="405" fill="#FDA4AF" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="700" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.2">× 接続できない</text>
+<rect x="64" y="443" width="336" height="122" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="83" y="463" width="7" height="38" rx="4" fill="#FDA4AF"/>
+<text x="106" y="485" fill="#FDA4AF" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">自盟領土</text>
+<text x="92" y="547" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">届かない場所へは設置不可</text>
+<rect x="466" y="443" width="336" height="122" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="485" y="463" width="7" height="38" rx="4" fill="#FDA4AF"/>
+<text x="508" y="485" fill="#FDA4AF" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">監視哨</text>
+<text x="494" y="547" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">領土の接続が必要</text>
+<rect x="868" y="443" width="336" height="122" rx="18" fill="#1E293B" stroke="#43506A" stroke-width="1"/>
+<rect x="887" y="463" width="7" height="38" rx="4" fill="#FDA4AF"/>
+<text x="910" y="485" fill="#FDA4AF" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="30" font-weight="800" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">障害となる場所</text>
+<text x="896" y="547" fill="#F8FAFC" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="22" font-weight="500" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">他盟領土・河川・境界</text>
+<line x1="406" y1="503" x2="459" y2="503" stroke="#FDA4AF" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 10"/>
+<line x1="809" y1="503" x2="860" y2="503" stroke="#FDA4AF" stroke-width="4" stroke-linecap="round" stroke-dasharray="7 10"/>
+<rect x="48" y="594" width="1184" height="55" rx="12" fill="#26354C"/>
+<text x="76" y="622" fill="#FCD34D" font-family="Noto Sans JP, Noto Sans CJK JP, Hiragino Sans, Yu Gothic, Meiryo, sans-serif" font-size="24" font-weight="650" text-anchor="start" dominant-baseline="middle" letter-spacing="0.2">設置はR4・R5／建設に粘土を使用／協力は希望者が参加</text>
+</svg>

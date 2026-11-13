@@ -1,7 +1,7 @@
 ---
 title: "初心者案内"
 description: "J30で自分のペースで楽しむための案内と、分からないことの相談方法。"
-lastUpdated: 2026-11-12
+lastUpdated: 2026-11-13
 ---
 
 ## 自分のペースで始める
@@ -14,6 +14,14 @@ lastUpdated: 2026-11-12
 2. [規約・襲撃ルール](../rules/)で、襲撃前に気を付けることを読む。
 3. [イベント情報・参加方法](../events/)で参加のしかたを知る。
 4. 知らない言葉は[用語集](../glossary/)で調べる。
+
+<figure class="wiki-diagram">
+  <img src="../diagrams/11_beginner_navigation.svg" alt="初めての方向けに、アライアンス紹介、規約、攻略ガイド、イベント情報を案内。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>知りたいことに応じて読むページを選ぶための案内図です。</p>
+    <a href="../diagrams/11_beginner_navigation.svg">図を拡大する<span class="sr-only">（初心者向け案内）</span></a>
+  </figcaption>
+</figure>
 
 ## 分からないことがあるとき
 

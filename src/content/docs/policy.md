@@ -6,6 +6,14 @@ lastUpdated: 2026-11-13
 
 J30symでは、ロストアイランドで勝利や報酬獲得を目指しつつ、メンバーの自由と楽しさも大切にします。強い戦力を持つ人だけでなく、建設・育成・採集を楽しむ人も、それぞれの形で参加できます。
 
+<figure class="wiki-diagram">
+  <img src="../diagrams/10_j30_strategy_roadmap.svg" alt="開始前の配置、序盤の育成、中盤の拠点と進路、終盤の目標選びを時期別に整理した攻略の目安。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>シーズンを通じて検討する攻略の目安を示した模式図です。活動への参加は各メンバーの希望と都合に合わせられます。</p>
+    <a href="../diagrams/10_j30_strategy_roadmap.svg">図を拡大する<span class="sr-only">（J30sym攻略ロードマップ）</span></a>
+  </figcaption>
+</figure>
+
 ## 開始前：初期配置と準備
 
 初期配置は、進出可能な地域だけでなく、周囲のアライアンスの戦力・活動時間・外交の可能性も含めて判断します。比較の観点は[初期配置の考え方](../starting-position/)を参照してください。

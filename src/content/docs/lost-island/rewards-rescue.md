@@ -36,6 +36,14 @@ lastUpdated: 2026-11-13
 
 特に、**シーズン兵隊アリは元の戦域に持ち帰れません**。終了後の戦力をシーズン兵に依存したまま見積もらないようにしましょう。
 
+<figure class="wiki-diagram">
+  <img src="../../diagrams/09_season_end_summary.svg" alt="シーズン兵や補強効果は消失し、通常兵の救済や治療資源・加速の一部返還は条件に応じて行われる。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>終了時に消失するものと、条件に応じて戻る兵やアイテムをまとめた模式図です。</p>
+    <a href="../../diagrams/09_season_end_summary.svg">図を拡大する<span class="sr-only">（シーズン終了後の扱い）</span></a>
+  </figcaption>
+</figure>
+
 ## 関連ページ
 
 - [ロストアイランドの基本ルール](../rules/)

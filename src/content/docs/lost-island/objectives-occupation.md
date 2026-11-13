@@ -21,6 +21,14 @@ lastUpdated: 2026-11-13
 
 監視哨が接していない拠点は、攻撃できません。また、攻撃可能な条件や耐久値は拠点ごとに確認してください。
 
+<figure class="wiki-diagram">
+  <img src="../../diagrams/02_objective_capture.svg" alt="監視哨の接続、守衛の撃破、耐久値の破壊、占領後の効果確認の4段階。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>拠点占領の流れと、敵が占領している場合やトンネル争奪時の注意点をまとめた模式図です。</p>
+    <a href="../../diagrams/02_objective_capture.svg">図を拡大する<span class="sr-only">（拠点占領の手順）</span></a>
+  </figcaption>
+</figure>
+
 ## 敵アライアンスが占領した拠点の場合
 
 敵アライアンスや敵陣営の占領拠点を攻撃する場合、**敵リーダーの守衛部隊→NPC守衛部隊→耐久値の破壊**という順序が案内されています。対象を攻める前に、戦力と参加人数を確かめましょう。

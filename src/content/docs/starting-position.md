@@ -15,6 +15,14 @@ lastUpdated: 2026-11-13
 
 ゲーム内のマップ・周辺アライアンスの状況によって、有利不利は変わります。過去に特定のエリアで苦戦したという経験だけで、今回も同じ結果になるとは限りません。
 
+<figure class="wiki-diagram">
+  <img src="../diagrams/04_starting_area_comparison.svg" alt="カニ平原と巻き貝フィヨルドを、進出経路・周辺勢力・守備の観点で比較。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>開始エリアを選ぶときの比較例を示した模式図です。地形や隣接関係はゲーム内マップで確認してください。</p>
+    <a href="../diagrams/04_starting_area_comparison.svg">図を拡大する<span class="sr-only">（初期配置の比較）</span></a>
+  </figcaption>
+</figure>
+
 ## 比較するポイント
 
 - **進路**：トンネル・港・奇観に到達するまでの監視哨の接続と粘土の使い方。

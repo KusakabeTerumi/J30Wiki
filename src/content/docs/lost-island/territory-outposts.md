@@ -36,6 +36,14 @@ lastUpdated: 2026-11-13
 
 所属アライアンスの監視哨が目標拠点に接していなければ、その拠点を攻撃できません。拠点へ進む際は、まず領土接続が成立しているかを確認してください。
 
+<figure class="wiki-diagram">
+  <img src="../../diagrams/01_outpost_connection.svg" alt="自盟領土から監視哨をつなぎ、目標拠点に接する例と、河川や境界を越えて接続できない例。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>領土を伸ばして目標拠点に接する方法を示した模式図です。</p>
+    <a href="../../diagrams/01_outpost_connection.svg">図を拡大する<span class="sr-only">（監視哨の接続ルール）</span></a>
+  </figcaption>
+</figure>
+
 ## J30symでの協力
 
 監視哨の設置はR4・R5が行いますが、建設への協力は各メンバーが希望と都合に合わせて行えます。戦闘が苦手な人も協力できる活動の一つです。J30symでは参加を強制しません。

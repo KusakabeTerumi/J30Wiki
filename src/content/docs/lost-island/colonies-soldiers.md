@@ -33,6 +33,14 @@ lastUpdated: 2026-11-13
 
 負傷兵が多いと治療が追いつかないため、再生菌の残量と資源を見ながら活動しましょう。
 
+<figure class="wiki-diagram">
+  <img src="../../diagrams/03_season_soldier_cycle.svg" alt="コロニーからシーズンT12兵を獲得し、出征で負傷した兵を治療して再出撃させる流れ。" width="1280" height="720" loading="lazy" decoding="async">
+  <figcaption>
+    <p>シーズン兵の入手から戦闘・治療までを示した模式図です。</p>
+    <a href="../../diagrams/03_season_soldier_cycle.svg">図を拡大する<span class="sr-only">（シーズン兵隊アリの仕組み）</span></a>
+  </figcaption>
+</figure>
+
 ## シーズン終了後
 
 シーズン兵隊アリは、終了後に元の戦域へ持ち帰れません。これらの兵によって増えていた戦闘力も元の戦域には引き継がれません。未使用のシーズン再生菌アイテムも終了時に消失します。
