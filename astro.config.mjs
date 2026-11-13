@@ -29,7 +29,17 @@ export default defineConfig({
         { label: '外交', slug: 'diplomacy' },
         { label: '参加方法', slug: 'participation' },
         { label: '建設・拠点攻略', slug: 'towers-npc' },
-        { label: '資源の準備', slug: 'troops-resources' }
+        { label: '資源の準備', slug: 'troops-resources' },
+        { label: 'ロストアイランドの詳細ガイド', collapsed: true, items: [
+          { slug: 'lost-island/rules' },
+          { slug: 'lost-island/resources-neutrals' },
+          { slug: 'lost-island/colonies-soldiers' },
+          { slug: 'lost-island/strengthening' },
+          { slug: 'lost-island/season-special-ants' },
+          { slug: 'lost-island/territory-outposts' },
+          { slug: 'lost-island/objectives-occupation' },
+          { slug: 'lost-island/rewards-rescue' }
+        ] }
       ] },
       { label: '運営方針・お知らせ・更新履歴', items: [
         { label: '運営方針', slug: 'management' },

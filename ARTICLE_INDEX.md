@@ -1,6 +1,6 @@
 # 記事一覧
 
-2026-11-12 品質改善版。全16ページのURLを維持。正式な運営理念と、攻略上の助言を区別します。
+ロストアイランドの詳細ガイド8本を含む全24ページ。公開版の既存16ページのURLを維持しています。
 
 | 記事 | ファイル（src/content/docs 内） |
 | --- | --- |
@@ -18,5 +18,13 @@
 | ロストアイランドの参加方法 | `participation.md` |
 | 建設・拠点攻略 | `towers-npc.md` |
 | 資源の準備 | `troops-resources.md` |
+| ロストアイランドの基本ルール | `lost-island/rules.md` |
+| 資源ポイントとシーズン中立生物 | `lost-island/resources-neutrals.md` |
+| 兵隊アリコロニーとシーズン兵隊アリ | `lost-island/colonies-soldiers.md` |
+| 蟻塚補強と補強樹脂 | `lost-island/strengthening.md` |
+| シーズン特化アリとシーズン孵化 | `lost-island/season-special-ants.md` |
+| アライアンス領土と監視哨 | `lost-island/territory-outposts.md` |
+| 拠点の種類と占領方法 | `lost-island/objectives-occupation.md` |
+| シーズンの報酬とレスキュー | `lost-island/rewards-rescue.md` |
 | 用語集 | `glossary.md` |
 | 改訂履歴 | `sources.md` |
