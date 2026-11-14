@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="svgtitle svgdesc">
+<title id="svgtitle">コロニー行動の時間調整</title><desc id="svgdesc">加速で得るポイントと、完成で得るポイントを分けて考える。J30 Wiki 初心者向けの模式図。</desc>
+<rect x="0" y="0" width="1280" height="720" rx="14" fill="#111827"/>
+<circle cx="1200" cy="65" r="170" fill="#A78BFA" opacity="0.04"/>
+<rect x="48" y="37" width="12" height="78" rx="6" fill="#A78BFA"/>
+<text x="85" y="80" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="40" font-weight="700" fill="#F8FAFC" text-anchor="start" dominant-baseline="middle" opacity="1">コロニー行動の時間調整</text>
+<text x="86" y="123" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="21" font-weight="400" fill="#CFD8E5" text-anchor="start" dominant-baseline="middle" opacity="1">加速で得るポイントと、完成で得るポイントを分けて考える</text>
+<text x="1230" y="65" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="21" font-weight="700" fill="#C4B5FD" text-anchor="end" dominant-baseline="middle" opacity="1">J30 WIKI</text>
+<text x="1230" y="100" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="18" font-weight="400" fill="#9EADC4" text-anchor="end" dominant-baseline="middle" opacity="1">イベント活用</text>
+<line x1="48" y1="153" x2="1232" y2="153" stroke="#41516A" stroke-width="1" stroke-linecap="round"/>
+<line x1="48" y1="665" x2="1232" y2="665" stroke="#41516A" stroke-width="1" stroke-linecap="round"/>
+<text x="50" y="691" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="18" font-weight="400" fill="#CFD8E5" text-anchor="start" dominant-baseline="middle" opacity="1">J30sym  ・  初心者育成ガイド</text>
+<text x="1230" y="691" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="17" font-weight="400" fill="#9EADC4" text-anchor="end" dominant-baseline="middle" opacity="1">※ 模式図：ゲーム画面ではありません</text>
+<rect x="54" y="209" width="367" height="282" rx="16" fill="#1C2940" stroke="#41516A" stroke-width="1"/>
+<rect x="55" y="210" width="7" height="280" rx="3" fill="#67E8F9"/>
+<text x="78" y="242" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="19" font-weight="700" fill="#67E8F9" text-anchor="start" dominant-baseline="middle" opacity="1">① 事前に</text>
+<text x="78" y="292" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="700" fill="#F8FAFC" text-anchor="start" dominant-baseline="middle" opacity="1">建設・進化を開始</text>
+<text x="78" y="341" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="20" font-weight="400" fill="#CFD8E5" text-anchor="start" dominant-baseline="middle" opacity="1">完了予定時刻を調べる</text>
+<text x="78" y="373" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="20" font-weight="400" fill="#CFD8E5" text-anchor="start" dominant-baseline="middle" opacity="1">次のポイント条件を確認</text>
+<line x1="424" y1="354" x2="447" y2="354" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round"/>
+<path d="M 435.5,360.0 L 447,354 L 435.5,348.0" fill="none" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="455" y="209" width="367" height="282" rx="16" fill="#1C2940" stroke="#41516A" stroke-width="1"/>
+<rect x="456" y="210" width="7" height="280" rx="3" fill="#A78BFA"/>
+<text x="479" y="242" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="19" font-weight="700" fill="#A78BFA" text-anchor="start" dominant-baseline="middle" opacity="1">② 加速対象の時間</text>
+<text x="479" y="292" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="700" fill="#F8FAFC" text-anchor="start" dominant-baseline="middle" opacity="1">必要な分だけ加速</text>
+<text x="479" y="341" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="20" font-weight="400" fill="#CFD8E5" text-anchor="start" dominant-baseline="middle" opacity="1">例：残り2時間に1時間加速</text>
+<text x="479" y="373" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="20" font-weight="400" fill="#CFD8E5" text-anchor="start" dominant-baseline="middle" opacity="1">まだ完成させない</text>
+<line x1="825" y1="354" x2="847" y2="354" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round"/>
+<path d="M 835.5,360.0 L 847,354 L 835.5,348.0" fill="none" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="854" y="209" width="370" height="282" rx="16" fill="#1C2940" stroke="#41516A" stroke-width="1"/>
+<rect x="855" y="210" width="7" height="280" rx="3" fill="#6EE7B7"/>
+<text x="878" y="242" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="19" font-weight="700" fill="#6EE7B7" text-anchor="start" dominant-baseline="middle" opacity="1">③ 完成対象の時間</text>
+<text x="878" y="292" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="27" font-weight="700" fill="#F8FAFC" text-anchor="start" dominant-baseline="middle" opacity="1">完成して報酬獲得</text>
+<text x="878" y="341" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="20" font-weight="400" fill="#CFD8E5" text-anchor="start" dominant-baseline="middle" opacity="1">戦闘力増加が対象か確認</text>
+<text x="878" y="373" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="20" font-weight="400" fill="#CFD8E5" text-anchor="start" dominant-baseline="middle" opacity="1">最強戦域戦も重ねる</text>
+<rect x="56" y="524" width="1167" height="58" rx="13" fill="#322D3B" stroke="#FDA4AF" stroke-width="1"/>
+<text x="640" y="554" font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, sans-serif" font-size="21" font-weight="700" fill="#FDA4AF" text-anchor="middle" dominant-baseline="middle" opacity="1">注意：次の対象時間より先に自然完成しないよう、残り時間を計算する</text>
+</svg>

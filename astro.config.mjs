@@ -21,6 +21,16 @@ export default defineConfig({
       { label: 'アライアンス規約・襲撃ルール', slug: 'rules' },
       { label: 'イベント情報・参加方法', slug: 'events' },
       { label: '初心者案内', slug: 'beginners' },
+      { label: '初心者育成ガイド', collapsed: true, items: [
+        { slug: 'beginner/growth-roadmap' },
+        { slug: 'beginner/resources' },
+        { slug: 'beginner/colony-action' },
+        { slug: 'beginner/svs-weekly' },
+        { slug: 'beginner/special-ant-growth' },
+        { slug: 'beginner/formations' },
+        { slug: 'beginner/research-tiers' },
+        { slug: 'beginner/lizard' }
+      ] },
       { label: '攻略ガイド', slug: 'guides' },
       { label: 'シーズン攻略', items: [
         { label: 'ロストアイランド', slug: 'seasons' },

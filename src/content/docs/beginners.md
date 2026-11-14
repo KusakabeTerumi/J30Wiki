@@ -1,7 +1,7 @@
 ---
 title: "初心者案内"
 description: "J30で自分のペースで楽しむための案内と、分からないことの相談方法。"
-lastUpdated: 2026-11-13
+lastUpdated: 2026-11-14
 ---
 
 ## 自分のペースで始める
@@ -22,6 +22,17 @@ lastUpdated: 2026-11-13
     <a href="../diagrams/11_beginner_navigation.svg">図を拡大する<span class="sr-only">（初心者向け案内）</span></a>
   </figcaption>
 </figure>
+
+## 初心者育成ガイド
+
+- [初心者は何から育成するべき？](../beginner/growth-roadmap/)
+- [資源不足を解消する方法](../beginner/resources/)
+- [コロニー行動を活用した育成術](../beginner/colony-action/)
+- [最強戦域戦の週間育成スケジュール](../beginner/svs-weekly/)
+- [特化アリのスキルと育成優先順位](../beginner/special-ant-growth/)
+- [強い隊列の組み方と兵種の選び方](../beginner/formations/)
+- [戦闘力・進化研究・T9への道](../beginner/research-tiers/)
+- [高レベルリザード討伐を目指す](../beginner/lizard/)
 
 ## 分からないことがあるとき
 

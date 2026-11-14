@@ -1,12 +1,20 @@
 # 記事一覧
 
-ロストアイランドの詳細ガイド8本を含む全24ページ。公開版の既存16ページのURLを維持しています。
+初心者育成ガイド8本とロストアイランドの詳細ガイド8本を含む全32ページ。
 
 | 記事 | ファイル（src/content/docs 内） |
 | --- | --- |
 | J30 アライアンスWiki | `index.md` |
 | J30の紹介・加入案内 | `about.md` |
 | 初心者案内 | `beginners.md` |
+| 初心者は何から育成するべき？ | `beginner/growth-roadmap.md` |
+| 資源不足を解消する方法 | `beginner/resources.md` |
+| コロニー行動を活用した育成術 | `beginner/colony-action.md` |
+| 最強戦域戦の週間育成スケジュール | `beginner/svs-weekly.md` |
+| 特化アリのスキルと育成優先順位 | `beginner/special-ant-growth.md` |
+| 強い隊列の組み方と兵種の選び方 | `beginner/formations.md` |
+| 戦闘力・進化研究・T9への道 | `beginner/research-tiers.md` |
+| 高レベルリザード討伐を目指す | `beginner/lizard.md` |
 | アライアンス規約・襲撃ルール | `rules.md` |
 | イベント情報・参加方法 | `events.md` |
 | 運営方針 | `management.md` |
